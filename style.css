@@ -1,0 +1,470 @@
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+.menu1 ul {
+    list-style: none;   /* Loại bỏ dấu chấm đầu dòng */
+    padding: 0;         /* Loại bỏ khoảng thụt đầu dòng mặc định */
+    margin: 0;          /* Loại bỏ khoảng cách mặc định */
+}
+
+.menu1 li {
+    display: inline;    /* Hiển thị các mục trên cùng một dòng */
+    margin-right: 10px; /* Khoảng cách giữa các mục */
+}
+.menu1 li a:hover{
+    color: red;
+}
+.amenu {
+    margin-left: 110px;
+    width: 30%;
+    margin-right: -50px;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 380px;
+
+}
+
+.tiemkiem {
+    margin-top: 100px;
+    width: 100px;
+}
+
+input {
+    margin-top: 0px;
+    border: solid 1px;
+    height: 30px;
+    margin-right: 200px;
+    border-radius: 15px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    color: black;
+    padding: 0px 7px;
+    text-decoration: none;
+}
+
+.header img {
+    width: 100%;
+    height: 400px;
+}
+
+.vechungtoi p {
+    text-align: center;
+    color: gray;
+}
+
+.doanvan {
+    text-align: center;
+    color: rgb(131, 131, 23);
+}
+
+.main {
+    text-align: center;
+    display: flex;
+}
+
+.trangtrai {
+    width: 25%;
+}
+
+.thucpham {
+    width: 25%;
+}
+
+.antoan {
+    width: 25%;
+}
+
+.dadang {
+    width: 25%;
+}
+
+.danhmuc {
+    color: rgb(131, 131, 23);
+    text-align: center;
+}
+
+.mon-an {
+    margin-top: 5px;
+    text-align: center;
+}
+
+.rau {
+    cursor: pointer;
+    background-color: white;
+    border: solid 1px;
+    height: 30px;
+    border-radius: 13px;
+    margin: 3px;
+}
+
+.rau:hover {
+    background-color: #ADD8E6;
+}
+
+.hang1 {
+    padding-bottom: 30px;
+    margin-top: 30px;
+    text-align: center;
+    display: flex;
+}
+
+.suplo {
+    width: 25%;
+}
+
+.raucai {
+    width: 25%;
+}
+
+.raumongtoi {
+    width: 25%;
+}
+
+.rauden {
+    width: 25%;
+}
+
+.gia {
+    color: rgb(177, 236, 26);
+}
+
+.khunggia h4 {
+    padding-top: 15px;
+}
+
+.khunggia {
+    margin-top: -23px;
+    margin-left: 60px;
+    height: 75px;
+    text-align: center;
+    width: 252px;
+    background-color: rgb(245, 244, 249);
+}
+
+.giagiam {
+    margin-top: -17px;
+}
+
+.nenhinh img {
+    width: 250px;
+}
+
+.nenhinh {
+    border: 1px solid rgb(253, 244, 244);
+    margin-left: 60px;
+    width: 250px;
+    height: 243px;
+}
+
+.phongngu {
+    width: 400px;
+}
+
+.tintuc {
+    padding-top: 10px;
+    text-align: center;
+    color: rgb(131, 131, 23);
+}
+
+.main1 {
+    margin-left: 20px;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+}
+
+.muiten {
+    cursor: pointer;
+    margin-left: -390px;
+    width: 40px;
+    height: 40px;
+    border-radius: 18px;
+    margin-top: -30px;
+    border: none;
+    border: 1px solid black;
+}
+
+.muiten1 {
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border-radius: 18px;
+    margin-top: -20px;
+    border: none;
+    border: 1px solid black;
+    margin-right: -410px;
+}
+
+.left {
+    width: 400px;
+    margin-right: 10px;
+    width: 30, 33%;
+}
+
+.left img {
+    height: 294px;
+    width: 400px;
+
+}
+
+.center {
+    margin-right: 10px;
+    width: 30, 33%;
+}
+
+.center img {
+    width: 420px;
+}
+
+.right {
+    margin-right: 10px;
+    width: 30, 33%;
+}
+
+.right img {
+    height: 294px;
+    width: 420px;
+}
+
+.son1 {
+    margin-top: -10px;
+    height: 192px;
+    background-color: rgb(245, 244, 250);
+}
+
+.biquyet {
+    margin-top: -20px;
+}
+
+.biquyet1 {
+    margin-top: -28px;
+}
+
+.son2 {
+    background-color: rgb(245, 244, 250);
+    height: 192px;
+    margin-top: -23px;
+    padding-top: 12px;
+
+}
+
+.son3 {
+
+    background-color: rgb(245, 244, 250);
+    height: 192px;
+    margin-top: -25px;
+    padding-top: 12px;
+}
+
+.xemthem {
+    cursor: pointer;
+    background-color: rgb(245, 244, 250);
+    border: solid 1px;
+    height: 30px;
+    border-radius: 13px;
+    margin: 3px;
+}
+
+.doitac {
+    text-align: center;
+    color: rgb(131, 131, 23);
+}
+
+.main2 {
+    text-align: center;
+    margin-left: 250px;
+    display: flex;
+    padding-right: 190px;
+}
+
+.main2 img {
+    margin-left: 20px;
+    height: 100px;
+}
+
+.nrc {
+
+    width: 25%;
+}
+
+.vig {
+    width: 25%;
+}
+
+.repu {
+    width: 25%;
+}
+
+.vin {
+    width: 25%;
+}
+
+.thongtin {
+    margin-top: 50px;
+    background-color: rgb(232, 228, 217);
+    height: 80px;
+    padding-top: 20px;
+}
+
+.thongtin input {
+    margin-left: 400px;
+}
+
+.dangky {
+    margin-left: 120px;
+    margin-bottom: -20px;
+}
+
+.theodoi {
+    text-align: right;
+    margin-right: 390px;
+    margin-top: -70px;
+}
+
+.fb_img{
+    width: 3%;
+    float: right;
+    margin-top: -3.5%;
+    margin-right: 20%;
+}
+.ig_img{
+    width: 3%;
+    float: right;
+    margin-top: -3.5%;
+    margin-right: 15%;
+}
+
+.link {
+    cursor: pointer;
+    text-align: right;
+    margin-right: 200px;
+    margin-top: -50px;
+}
+
+.main3 {
+    margin-left: 40px;
+    display: flex;
+}
+
+.diachi {
+    width: 40%;
+}
+
+.chinhsach {
+    margin-left: 40px;
+    width: 20%;
+}
+
+.fanpage {
+    width: 40%;
+}
+
+.fanpage img {
+    margin-left: 70px;
+}
+
+.fanpage h3 {
+    margin-left: 70px;
+}
+
+.footer {
+    margin-top: 50px;
+    text-align: center;
+    line-height: 50px;
+    height: 50px;
+    background-color: rgb(232, 228, 217);
+}
+
+.email-container {
+    margin-left: -10px;
+    align-items: center;
+    margin-top: -35px;
+    border-radius: 50px;
+    padding: 5px;
+}
+
+.email-input {
+    padding-left: 25px;
+    flex-grow: 1;
+    border: none;
+    width: 240px;
+    height: 40px;
+    border-radius: 50px;
+    font-size: 12px;
+    outline: none;
+    color: #666;
+    /* Text color */
+}
+
+.email-input::placeholder {
+    color: #666;
+    /* Placeholder text color */
+}
+
+.logo {
+    border: 1px solid rgb(245, 239, 239);
+}
+
+.register-btn {
+    margin-bottom: 30px;
+    margin-left: -250px;
+    background: linear-gradient(90deg, #f2994a, #f2c94c);
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 8px 10px;
+    width: 90px;
+    height: 40px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.register-btn:hover {
+    background: linear-gradient(90deg, #f2c94c, #f2994a);
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.call-button {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    width: 60px;
+    height: 60px;
+    background-color: #4CAF50;
+    border-radius: 50%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    z-index: 1000;
+}
+
+.dienthoai {
+    border-radius: 25px;
+}
+
+.call-button img {
+    width: 90%;
+    height: 90%;
+    margin-top: 2px;
+
+}
+
+.call-button:hover {
+    background-color: #3e8e41;
+}
